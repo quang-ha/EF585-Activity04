@@ -37,3 +37,7 @@ rsconnect/
 
 # Remove emacs file
 *~
+
+# Ignore other html files and pdf
+*.html
+*.pdf
